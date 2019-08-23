@@ -1,0 +1,23 @@
+
+public class ConstantData {
+	
+	public static final String Path_OR = null;
+
+	public static String URL = "http://forum.digitalpoint.tech/";
+
+	public static String Path_Testdata = "C:\\Alljava\\MavenProject\\Project2\\ForumValidation\\extarnalData\\Data1.xlsx";
+	public static String File_Teestdata = "data1.xlsx";
+
+	int col_TestCase_ID = 0;
+	int col_TS_ID = 1;
+	int col_Description = 2;
+	// public static int col_object =3 ;
+	public static int col_Action_Keyword = 3;
+	
+	
+	public static String language = "English";
+	public static String titles = "Mrs";
+	
+
+
+}
